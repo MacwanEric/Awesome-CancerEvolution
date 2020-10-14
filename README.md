@@ -1,6 +1,7 @@
 # Awesome-CancerEvolution
 
-### Note: Originally forked from iron-lion. I am interested in somatic evolution,tumour evolutionary dynamic manipulation, patient-specific tumour progression forecasting, Drug ressistance and early cancer detection. Materials will follow interest direction.
+October 15, 2020.
+###  I am interested in somatic evolution,tumour evolutionary dynamic manipulation, patient-specific tumour progression forecasting, Drug ressistance and early cancer detection. Materials will follow interest direction.
 
 Papers for studying cancer evolution.
 
